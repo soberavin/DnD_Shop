@@ -1,0 +1,28 @@
+.binShopItem {
+    padding:20px;
+    display: flex;
+    max-width: 300px;;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.17);
+    margin-bottom: 15px;
+}
+
+.binShopItem__info {
+    margin-left: 10px;
+}
+
+
+.binShopItemPic {
+    width: 110px;
+    height: 110px;
+}
+
+.binShopItem__title {
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.binShopItem__text {
+    margin-bottom: 15px;
+}
+

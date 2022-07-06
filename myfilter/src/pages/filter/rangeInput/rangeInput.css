@@ -1,0 +1,13 @@
+.InputBox {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(223, 223, 223);
+    max-width: 150px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.itemsNum {
+    font-size: 20px;
+    font-weight: 700;
+}

@@ -1,0 +1,29 @@
+.shopItem {
+    padding:20px;
+    display: flex;
+    min-width: 435px;;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.17);
+    margin-bottom: 15px;
+    cursor: move;
+}
+
+.shopItem__info {
+    margin-left: 10px;
+}
+
+
+.shopItemPic {
+    width: 110px;
+    height: 110px;
+}
+
+.shopItem__title {
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.shopItem__text {
+    margin-bottom: 15px;
+}
+

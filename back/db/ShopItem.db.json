@@ -1,0 +1,57 @@
+{
+    "data": [
+        {
+            "title": "Iphone",
+            "text": "Отличный айфон, совершенно не похож на предыдущие.",
+            "price": "1499999",
+            "image": "https://www.apple.com/newsroom/images/product/iphone/geo/apple_iphone-12_2-up_geo_10132020_inline.jpg.large.jpg",
+            "type": "phone",
+            "id": "1"
+        },
+        {
+            "title": "Old phone",
+            "text": "Really bad phone to use, still works though.",
+            "price": "999",
+            "image": "https://habrastorage.org/r/w1560/getpro/habr/post_images/5ca/355/5b9/5ca3555b90e541c41aa9fb4595304af8.jpg",
+            "type": "phone",
+            "id": "2"
+        },
+        {
+            "title": "Old phone",
+            "text": "Really bad phone to use, still works though.",
+            "price": "3000",
+            "image": "https://f1comp.ru/wp-content/uploads/2020/05/landroverf22.png",
+            "type": "phone",
+            "id": "3"
+        },
+        {
+            "title": "Iphone",
+            "text": "Отличный айфон, совершенно не похож на предыдущие.",
+            "price": "1499999",
+            "image": "https://www.apple.com/newsroom/images/product/iphone/geo/apple_iphone-12_2-up_geo_10132020_inline.jpg.large.jpg",
+            "type": "phone",
+            "id": "4"
+        },
+        {
+            "title": "Макбук",
+            "text": "Чертовски хороший компьютер, купи меня немедленно.",
+            "price": "9499999",
+            "image": "https://itmag.kz/upload/iblock/8/23/product_image_66823_1178383.jpg",
+            "type": "PC",
+            "id": "5"
+        },
+
+        {
+            "title": "Iphone",
+            "text": "Отличный айфон, совершенно не похож на предыдущие.",
+            "price": "1499999",
+            "image": "https://www.apple.com/newsroom/images/product/iphone/geo/apple_iphone-12_2-up_geo_10132020_inline.jpg.large.jpg",
+            "type": "phone",
+            "id": "6"
+        }
+        
+       
+    ],
+    "counter": 8
+}
+

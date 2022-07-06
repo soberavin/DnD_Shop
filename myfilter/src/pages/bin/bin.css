@@ -1,0 +1,33 @@
+.binContent {
+    border: 1px solid rgba(0, 0, 0, 0.17);
+    min-height: 100px;
+    min-width: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: 15px;
+    padding: 15px;
+}
+
+.binInterface {
+    background-color: rgb(223, 223, 223);
+    width: 100%;
+    line-height: 20px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+.numOfBinObjects {
+    padding: 10px;
+}
+
+.binSummaryPrice {
+    padding: 10px;
+}
+
+.clearBtn {
+    margin-bottom: 10px;
+}
