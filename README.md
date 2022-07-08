@@ -1,5 +1,14 @@
-# DnD_Shop
-Front + Back React TS + MobX + Drag n Drop Shop
+## Drag n drop shop page with backend
+
+# Frontend:
+* react
+* typescript
+* mobx
+
+# Backend:
+* nodejs
+* express
+* json db
 
 ## Launch
 ```
