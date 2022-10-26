@@ -46,7 +46,6 @@ export default function Bin() {
 
   const ref = x[1];
 
-  useContext()
 
   function ClearBin() {
     setDroppedItems({
